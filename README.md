@@ -15,4 +15,5 @@ To use this sample project:
 3. create virtual env with `python -m venv .venv`
 4. activate the venv with `source .venv/bin/activate`
 5. install requirements with `pip install -r requirements.txt`
-6. Run `python main.py` to see the agents working
+6. copy/rename the `.env.example` file to `.env` and include your own api key
+7. Run `python main.py` to see the agents working
