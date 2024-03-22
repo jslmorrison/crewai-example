@@ -1,0 +1,6 @@
+crewai
+crewai[tools]
+duckduckgo-search
+langchain-community
+onnxruntime
+python-dotenv
